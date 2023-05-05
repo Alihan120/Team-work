@@ -2,6 +2,7 @@ body{
     max-width: 1354px;
     background: rgb(72,29,101);
 background: linear-gradient(90deg, rgba(72,29,101,1) 13%, rgba(179,11,163,1) 38%, rgba(125,71,149,1) 60%, rgba(90,120,217,1) 70%, rgba(74,144,228,1) 74%, rgba(75,176,221,1) 81%, rgba(118,204,242,1) 99%);
+margin: auto;
 }
 h1{ 
     padding: 10px 10px;
