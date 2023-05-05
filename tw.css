@@ -35,10 +35,11 @@ img:hover{
     height: 275px;
     width: 350px;
 }
-h3{
+h2{
     flex-direction: column;
     color: #F4A460;
     margin-bottom: 0.5rem;
+    font-size: 2rem;
 }
 p{
     font-size: 1rem;
